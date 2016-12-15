@@ -282,7 +282,8 @@ namespace VKAudio
 
     static class Api
     {
-        static string accessToken = "70299a93b47684f8a7f14c700d59e372dc7964c65897761805043c0c5e4da5c3560c472505e1b00af676f";
+        // Надо добавить новый токен
+        static string accessToken = "";
         public static string AudioGet(int userId)
         {
             string response = Http.Post("https://api.vk.com/method/audio.get",
