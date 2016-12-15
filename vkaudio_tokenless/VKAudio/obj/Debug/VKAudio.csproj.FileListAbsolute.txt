@@ -1,0 +1,33 @@
+D:\c# projects\VKAudio\VKAudio\bin\Debug\VKAudio.exe.config
+D:\c# projects\VKAudio\VKAudio\bin\Debug\VKAudio.exe
+D:\c# projects\VKAudio\VKAudio\bin\Debug\VKAudio.pdb
+D:\c# projects\VKAudio\VKAudio\obj\Debug\VKAudio.csprojResolveAssemblyReference.cache
+D:\c# projects\VKAudio\VKAudio\obj\Debug\VKAudio.Properties.Resources.resources
+D:\c# projects\VKAudio\VKAudio\obj\Debug\VKAudio.csproj.GenerateResource.Cache
+D:\c# projects\VKAudio\VKAudio\obj\Debug\VKAudio.exe
+D:\c# projects\VKAudio\VKAudio\obj\Debug\VKAudio.pdb
+D:\c# projects\VKAudio\VKAudio\bin\Debug\Newtonsoft.Json.dll
+D:\c# projects\VKAudio\VKAudio\bin\Debug\Newtonsoft.Json.xml
+D:\c# projects\VKAudio\VKAudio\obj\Debug\VKAudio.MainForm.resources
+C:\Users\Dan\Desktop\VKAudio\VKAudio\bin\Debug\VKAudio.exe.config
+C:\Users\Dan\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.exe
+C:\Users\Dan\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.pdb
+C:\Users\Dan\Desktop\VKAudio\VKAudio\bin\Debug\VKAudio.exe
+C:\Users\Dan\Desktop\VKAudio\VKAudio\bin\Debug\VKAudio.pdb
+C:\Users\Dan\Desktop\VKAudio\VKAudio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dan\Desktop\VKAudio\VKAudio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dan\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.MainForm.resources
+C:\Users\Dan\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.Properties.Resources.resources
+C:\Users\Dan\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.csproj.GenerateResource.Cache
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\bin\Debug\VKAudio.exe.config
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.exe
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.pdb
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\bin\Debug\VKAudio.exe
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\bin\Debug\VKAudio.pdb
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.MainForm.resources
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.Properties.Resources.resources
+C:\Users\Даниил\Desktop\VKAudio\VKAudio\obj\Debug\VKAudio.csproj.GenerateResource.Cache
